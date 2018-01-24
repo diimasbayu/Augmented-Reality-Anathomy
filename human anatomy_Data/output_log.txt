@@ -1,0 +1,132 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.621 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Tugas Akhir\Program\anatomy\human anatomy_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 338 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.450541 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1050.
+Total: 0.838824 ms (FindLiveObjects: 0.157687 ms CreateObjectMapping: 0.111967 ms MarkObjects: 0.541643 ms  DeleteObjects: 0.024726 ms)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+QCAR initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Dataset Anatomy could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Using default scene scale for device: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Trackable logo_Aplikasi lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StopQCAR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at UnityEngine.Component.GetComponentsInChildren[BackgroundPlaneAbstractBehaviour] (Boolean includeInactive) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[BackgroundPlaneAbstractBehaviour] () [0x00000] in <filename unknown>:0 
+  at Vuforia.VideoBackgroundAbstractBehaviour.ResetBackgroundPlane (Boolean disable) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.ResetBackgroundPlane (Boolean disable) [0x00000] in <filename unknown>:0 
+  at Vuforia.QCARAbstractBehaviour.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
